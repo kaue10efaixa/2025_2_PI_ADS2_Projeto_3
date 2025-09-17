@@ -12,7 +12,7 @@
 # OneManDev 🚀  
 
 ## 👨‍💻 Integrante  
-- [Kaue Dantas](https://www.linkedin.com/in/kauedantas10/)  
+- [Kauê Dantas](https://www.linkedin.com/in/kauedantas10/)  
 
 ## 👨‍🏫 Professores Orientadores  
 - [Victor Rosetti](https://www.linkedin.com/in/victorbarq/)  
