@@ -36,10 +36,10 @@ Além do transporte urbano, planejamos expandir a solução para o **mercado aé
 
 ## 🛠 Tecnologias Utilizadas  
 
-- **Front-end**: React, Node.js  
-- **Back-end**: API em Python  
+- **Front-end**: React.js 
+- **Back-end**: API em C#
 - **Banco de Dados**: (definir)  
-- **Infraestrutura**: Azure + Netlify  
+- **Infraestrutura**: (definir) 
 
 ---
 
