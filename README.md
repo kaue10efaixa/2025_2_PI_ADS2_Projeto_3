@@ -14,7 +14,7 @@
 ## 👨‍💻 Integrante  
 - [Kauê Dantas](https://www.linkedin.com/in/kauedantas10/)  
 
-## 👨‍🏫 Professores Orientadores  
+## 👨‍🏫 Professor Orientador 
 - [Victor Rosetti](https://www.linkedin.com/in/victorbarq/)  
 
 ---
