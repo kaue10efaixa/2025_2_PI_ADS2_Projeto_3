@@ -9,7 +9,7 @@
 
 ---
 
-# Hitori Sushi Web System 🍣  
+# OneManDev - Hitori Sushi Web System 🍣  
 
 ## 👨‍💻 Integrante  
 - [Kauê Dantas](https://www.linkedin.com/in/kauedantas10/)  
