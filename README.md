@@ -1,0 +1,77 @@
+# FECAP - Fundação de Comércio Álvares Penteado
+
+<p align="center">
+<a href="https://www.fecap.br/">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" 
+       alt="FECAP - Fundação de Comércio Álvares Penteado" border="0">
+</a>
+</p>
+
+---
+
+# Hitori Sushi Web System 🍣  
+
+## 👨‍💻 Integrante  
+- [Kauê Dantas](https://www.linkedin.com/in/kauedantas10/)  
+
+## 👨‍🏫 Professor Orientador 
+- [Victor Rosetti](https://www.linkedin.com/in/victorbarq/)  
+
+---
+
+## 📌 Descrição  
+
+Desenvolvemos um **sistema web para o restaurante japonês Hitori Sushi**, que permite gerenciar reservas, pedidos e mesas de forma eficiente e moderna.  
+
+O projeto possui **front-end em React.js**, **back-end em C#**, **banco de dados PostgreSQL**, e está **hospedado via Docker**, garantindo fácil deploy e escalabilidade.  
+
+🔑 **Diferenciais**:  
+
+- Interface intuitiva para clientes e funcionários  
+- Gerenciamento de mesas e pedidos em tempo real  
+- Sistema totalmente integrado entre front-end, back-end e banco de dados  
+
+---
+
+## 🛠 Tecnologias Utilizadas  
+
+- **Front-end**: React.js  
+- **Back-end**: API em C#  
+- **Banco de Dados**: PostgreSQL  
+- **Hospedagem**: Docker  
+
+---
+
+## ⚙️ Instalação e Configuração  
+
+O projeto está estruturado nas pastas `frontend` e `backend`.  
+Etapas principais:  
+1. Configuração do Docker e containers  
+2. Inicialização do banco de dados PostgreSQL  
+3. Rodar a API C# do back-end  
+4. Executar o front-end em React.js  
+5. Integração completa entre front-end, back-end e banco de dados  
+
+---
+
+## 🗃 Histórico de Lançamentos  
+
+- **0.1 – Planejamento e Idealização**  
+  - Definição do escopo do restaurante Hitori Sushi  
+  - Escolha da stack tecnológica  
+  - Pesquisa de referências e design  
+
+- **0.2 – Desenvolvimento Inicial**  
+  - Estruturação do front-end em React.js  
+  - Criação da API em C#  
+  - Modelagem do banco PostgreSQL  
+
+- **0.3 – Integração e Deploy**  
+  - Conexão entre front-end, back-end e banco  
+  - Configuração do Docker para deploy completo  
+  - Testes de funcionamento do sistema  
+
+---
+
+## 📄 Licença  
+Este projeto está sob a licença [MIT](LICENSE).  
