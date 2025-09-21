@@ -1,10 +1,10 @@
 import { useState } from "react";
 import Home from "./pages/Home";
 import ReservarMesa from "./pages/ReservarMesa";
-import MesasDisponiveis from "./pages/MesasDisponiveis";
+import MesasReservadas from "./pages/MesasReservadas"; 
 
 function App() {
-  const [page, setPage] = useState("home"); // home | reserva | mesas
+  const [page, setPage] = useState("home"); 
 
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900">
@@ -33,7 +33,7 @@ function App() {
               page === "mesas" ? "bg-white text-red-600" : "bg-red-500"
             }`}
           >
-            Mesas Disponíveis
+            Mesas Reservadas
           </button>
         </nav>
       </header>
@@ -41,7 +41,7 @@ function App() {
       <main className="p-6">
         {page === "home" && <Home onStart={() => setPage("reserva")} />}
         {page === "reserva" && <ReservarMesa />}
-        {page === "mesas" && <MesasDisponiveis />}
+        {page === "mesas" && <MesasReservadas />}
       </main>
     </div>
   );
