@@ -73,5 +73,19 @@ Etapas principais:
 
 ---
 
+## 📌 Metodologia Ágil  
+
+Durante o desenvolvimento, utilizamos o **Trello** como ferramenta de gestão ágil, aplicando conceitos do **Kanban** e do **Scrum** para organizar as tarefas e sprints do time.  
+
+🔧 **Benefícios obtidos com o Trello**:  
+- Melhor organização das etapas do projeto  
+- Acompanhamento visual das tarefas em andamento  
+- Priorização clara das entregas  
+- Colaboração eficiente entre integrantes  
+
+📎 **Quadro do Projeto no Trello**: [OneManDev - Hitori Sushi](https://trello.com/b/kR3LKZVY/onemandev)  
+
+---
+
 ## 📄 Licença  
 Este projeto está sob a licença [MIT](LICENSE).  
